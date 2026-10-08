@@ -1,0 +1,7 @@
+   .env
+   .icaif/
+   private/
+   data/
+   logs/
+   .DS_Store
+   __pycache__/
